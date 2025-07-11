@@ -1,3 +1,5 @@
+# Patch 2: Testing PR
+
 def is_strong(password):
     return len(password) >= 8 and any(c.isdigit() for c in password)
 
