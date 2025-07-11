@@ -7,3 +7,5 @@ if __name__ == "__main__":
         print("🪞 It's a palindrome!")
     else:
         print("🚫 Not a palindrome.")
+
+# Co-authored commit test with ChatGPT
