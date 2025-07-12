@@ -37,7 +37,10 @@ python math_quiz.py
 This repo was created:
 - To improve Python fundamentals
 - To demonstrate GitHub usage and workflow
-- To earn GitHub achievements like `Readme Writer`, `Action Hero`, etc.
+- To earn GitHub achievements like:
+  - 🦈 Pull Shark
+  - 🎯 Quickdraw
+  - 👥 Pair Extraordinaire
 - To showcase coding activity in a fun, meaningful way
 
 ---
